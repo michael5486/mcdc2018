@@ -10,6 +10,8 @@
 ## Logonsessions
 ## Sigcheck
 ## Bloodhound
+## firewall_5_min_fix.bat
+Need to edit this with firefox/other browser location before executing.
 
 
 
